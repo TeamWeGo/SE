@@ -14,7 +14,7 @@
 2. [用户手册](./用户手册.pdf)
 3. [所有源代码](https://github.com/TeamWeGo/source_code)
 4. [软件需求规格说明书(SRS)](https://teamwego.github.io/dashboard/06-requirements.html)
-5. [软件设计文档(SDS)](./软件设计文档.md)
+5. [软件设计文档(SDS)](./软件开发文档.md)
 6. [小组分工与贡献率说明](https://teamwego.github.io/dashboard/x5-fengong.html)
 
 
